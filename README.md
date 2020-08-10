@@ -1,0 +1,1 @@
+# K-fold-and-Mean-activation-values-analysis-for-performance-evaluation-of-CNN-on-Swedish-leaf-dataset
